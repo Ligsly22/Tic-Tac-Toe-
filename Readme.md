@@ -9,7 +9,7 @@ A simple two-player Tic Tac Toe game written in Python. Played in the terminal u
 - Win/draw condition checks
 - Option to replay after a game ends
 - Clears the board between turns for a clean view
-
+![Game Screenshot](Screenshot.png)
 ## ▶️ How to Run
 1. Download or clone the repository
 2. Open a terminal in the project folder:
@@ -17,7 +17,7 @@ A simple two-player Tic Tac Toe game written in Python. Played in the terminal u
 
 ```bash
 python tic_tac_toe.py
-![Game Screenshot](Screenshot.png)
+
 WHAT I LEARNED:
 	•	Clean modular function design
 	•	Game loop and input control

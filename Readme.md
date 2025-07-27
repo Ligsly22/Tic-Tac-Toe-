@@ -14,7 +14,7 @@ A simple two-player Tic Tac Toe game written in Python. Played in the terminal u
 1. Download or clone the repository
 2. Open a terminal in the project folder:
 3. Run the game with:
-
+![Game Screenshot](Screenshot.png)
 ```bash
 python tic_tac_toe.py
 

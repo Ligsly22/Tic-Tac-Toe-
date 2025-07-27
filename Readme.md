@@ -22,9 +22,12 @@ WHAT I LEARNED:
 	•	Clean modular function design
 	•	Game loop and input control
 	•	Simple win-checking logic and board display
-	•	Handling invalid input and replay logic 
+	•	Handling invalid input and replay logic
+	*	Terminal screen-clearing with os.system
+	
 
 FUTURE IMPROVEMENTS:
 	•	Add single-player mode with basic AI
 	•	Score tracking between rounds
 	•	GUI version using Tkinter
+	*	Highlight winning combinations

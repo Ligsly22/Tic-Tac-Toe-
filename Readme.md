@@ -2,6 +2,14 @@
 
 A simple two-player Tic Tac Toe game written in Python. Played in the terminal using clean, modular design.
 
+Project Overview:
+* Features
+* How to run
+* Screenshot
+* What I learned
+* Future improvements
+
+  
 ## 🎮 Features
 - Command-line interface
 - Player marker selection (X or O)

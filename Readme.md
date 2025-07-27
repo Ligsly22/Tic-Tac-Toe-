@@ -1,6 +1,6 @@
 # Tic Tac Toe – Python
 
-A simple two-player Tic Tac Toe game written in Python.
+A simple two-player Tic Tac Toe game written in Python. Played in the terminal using clean, modular design.
 
 ## 🎮 Features
 - Command-line interface
@@ -8,10 +8,12 @@ A simple two-player Tic Tac Toe game written in Python.
 - Input validation for position choices
 - Win/draw condition checks
 - Option to replay after a game ends
+- Clears the board between turns for a clean view
 
 ## ▶️ How to Run
-1. Clone this repo or download the `.py` file.
-2. Run in terminal or any Python environment:
+1. Download or clone the repository
+2. Open a terminal in the project folder:
+3. Run the game with:
 
 ```bash
 python tic_tac_toe.py
